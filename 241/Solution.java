@@ -1,3 +1,6 @@
+import java.util.List;
+import java.util.ArrayList;
+
 public class Solution {
     public List<Integer> diffWaysToCompute(String expression) {
         List<Integer> res = new ArrayList<>();
